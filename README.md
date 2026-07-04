@@ -37,7 +37,7 @@
       <br/><br/>
       <h3>Manish Gadekar</h3>
       <p><em>Software Engineer</em></p>
-      <p>📍 India</p>
+      <p>📍India</p>
       <br/>
     </td>
     <td width="600" valign="top">
@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💡 Interests</h4>
+      <h4>💡Interests</h4>
       <p>
         • Full-Stack Development<br/>
         • AI / Machine Learning<br/>
@@ -86,8 +86,6 @@
     </td>
   </tr>
 </table>
-
-    </td>
   </tr>
 </table>
 
