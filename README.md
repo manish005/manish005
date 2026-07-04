@@ -19,94 +19,88 @@
 
 <br/>
 
-<details open>
-<summary><strong>📌 ABOUT ME</strong></summary>
-<br/>
+<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ABOUT ME -->
+<!-- ───────────────────────────────────────────────────────────── -->
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-
-### 💼 Who I Am
-
-```text
-🧑‍💻  Software Engineer
-🚀  Full-Stack Developer
-🎯  AI & Trading Systems
-📍  India
-📧  gadekarmanish62@gmail.com
-```
-
-      </td>
-      <td width="50%" valign="top">
-
-### 🎯 What I Do
-
-```text
-⚛  React & TypeScript Apps
-🐍  Python & AI Systems
-📊  Algorithmic Trading Bots
-🔥  Firebase & Cloud Solutions
-🔧  Full-Product Development
-```
-
-      </td>
-    </tr>
-  </table>
-</div>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30"/> About Me
+</h2>
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" valign="top">
+<table align="center">
+  <tr>
+    <td width="280" align="center" valign="top">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="120"/>
+      <br/><br/>
+      <h3>Manish Gadekar</h3>
+      <p><em>Software Engineer</em></p>
+      <p>📍 India</p>
+      <br/>
+    </td>
+    <td width="600" valign="top">
 
-### 🔭 Currently Working On
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💡 Interests</h4>
+      <p>
+        • Full-Stack Development<br/>
+        • AI / Machine Learning<br/>
+        • Algorithmic Trading<br/>
+        • Cloud Infrastructure<br/>
+        • FinTech & Automation<br/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 Learning</h4>
+      <p>
+        • React Native<br/>
+        • GraphQL<br/>
+        • Docker & AWS<br/>
+        • Advanced Trading Algos<br/>
+        • System Design<br/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔭 Building</h4>
+      <p>
+        • <b>SoloLeveling</b> — gamified self-improvement<br/>
+        • <b>ArthaMaker</b> — algo-trading platform<br/>
+        • <b>CashOrbit</b> — finance management<br/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 Expertise</h4>
+      <p>
+        • React & TypeScript<br/>
+        • Python & Django<br/>
+        • Firebase & Backend<br/>
+        • C++ / C# / .NET<br/>
+        • API Design & Cloud<br/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- **SoloLeveling** — gamified self-improvement platform
-- **ArthaMaker** — algo-trading bot platform
-- **CashOrbit** — personal finance management
-
-      </td>
-      <td width="33%" valign="top">
-
-### 🌱 Currently Learning
-
-<div align="center">
-
-[![](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev)
-[![](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org)
-[![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
-[![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-
-</div>
-
-      </td>
-      <td width="33%" valign="top">
-
-### 💬 Ask Me About
-
-```text
-✅  React / TypeScript
-✅  Python / Django
-✅  Firebase / Backend
-✅  C++ / C# /.NET
-✅  Trading Algorithms
-```
-
-      </td>
-    </tr>
-  </table>
-</div>
-
-</details>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<details open>
-<summary><strong>🛠️ TECH STACK</strong></summary>
+<!-- ───────────────────────────────────────────────────────────── -->
+<!-- TECH STACK -->
+<!-- ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Tech Stack
+</h2>
+
 <br/>
 
 <div align="center">
@@ -132,109 +126,110 @@
   </table>
 </div>
 
-</details>
-
 <br/>
 
-<details open>
-<summary><strong>🚀 FEATURED PROJECTS</strong></summary>
+<!-- ───────────────────────────────────────────────────────────── -->
+<!-- FEATURED PROJECTS -->
+<!-- ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="30"/> Featured Projects
+</h2>
+
 <br/>
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" style="border-radius: 16px; padding: 16px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d;">
-        
-### [🏆 SoloLeveling](https://github.com/manish005/SoloLeveling)
-
-**Self-Improvement System** — Gamified habit tracker
-
-> Full-stack gamified productivity app with quests, XP system, workout logging & AI assistant.
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish005/SoloLeveling)
-
+      <td width="50%">
+        <h3>🏆 SoloLeveling</h3>
+        <p><em>Self-Improvement System</em></p>
+        <p>Gamified habit tracker with quests, XP system, workout logging & AI assistant.</p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+          <br/>
+          <a href="https://github.com/manish005/SoloLeveling"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
       </td>
-      <td width="50%" style="border-radius: 16px; padding: 16px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d;">
-        
-### [📈 ArthaMaker](https://github.com/manish005/ArthaMaker)
-
-**Algo-Trading Bot Platform** — Automated trading strategies
-
-> Python-based algorithmic trading platform with strategy backtesting, real-time execution & performance analytics.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish005/ArthaMaker)
-
+      <td width="50%">
+        <h3>📈 ArthaMaker</h3>
+        <p><em>Algo-Trading Bot Platform</em></p>
+        <p>Automated trading strategies with backtesting, execution & performance analytics.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+          <br/>
+          <a href="https://github.com/manish005/ArthaMaker"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
       </td>
     </tr>
     <tr>
-      <td width="50%" style="border-radius: 16px; padding: 16px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d;">
-        
-### [💳 CashOrbit](https://github.com/manish005/cashorbit)
-
-**Personal Finance Manager** — Track expenses, budget smarter
-
-> Full-stack financial management app with expense tracking, budget planning, and spending analytics dashboard.
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish005/cashorbit)
-
+      <td width="50%">
+        <h3>💳 CashOrbit</h3>
+        <p><em>Personal Finance Manager</em></p>
+        <p>Expense tracking, budget planning, and spending analytics dashboard.</p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+          <br/>
+          <a href="https://github.com/manish005/cashorbit"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
       </td>
-      <td width="50%" style="border-radius: 16px; padding: 16px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d;">
-        
-### [💒 Lohar Matrimony](https://github.com/manish005/loharmatrimony)
-
-**Community Wedding Platform** — Matrimony for Lohar community
-
-> A community-specific matrimonial platform with profiles, matching, and secure communication features.
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish005/loharmatrimony)
-
+      <td width="50%">
+        <h3>💒 Lohar Matrimony</h3>
+        <p><em>Community Wedding Platform</em></p>
+        <p>Matrimonial platform with profile matching and secure communication.</p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+          <br/>
+          <a href="https://github.com/manish005/loharmatrimony"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
       </td>
     </tr>
     <tr>
-      <td width="50%" style="border-radius: 16px; padding: 16px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d;">
-        
-### [❤️ DatingApp](https://github.com/manish005/DatingApp)
-
-**Dating Application** — Connect with people
-
-> A .NET-based dating platform with real-time messaging, profile matching, and photo galleries.
-
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish005/DatingApp)
-
+      <td width="50%">
+        <h3>❤️ DatingApp</h3>
+        <p><em>.NET Dating Platform</em></p>
+        <p>Dating app with real-time messaging, matching & photo galleries.</p>
+        <p>
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+          <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+          <br/>
+          <a href="https://github.com/manish005/DatingApp"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
       </td>
-      <td width="50%" style="border-radius: 16px; padding: 16px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d;">
-        
-### [🤖 GAIGPT](https://github.com/manish005/GAIGPT)
-
-**AI Chat Experience** — Modern GPT interface
-
-> A clean, modern chat interface for AI interactions with conversation history and customizable settings.
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish005/GAIGPT)
-
+      <td width="50%">
+        <h3>🤖 GAIGPT</h3>
+        <p><em>AI Chat Interface</em></p>
+        <p>Modern GPT chat interface with conversation history.</p>
+        <p>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <br/>
+          <a href="https://github.com/manish005/GAIGPT"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
-</details>
-
 <br/>
 
-<details open>
-<summary><strong>📊 GITHUB ANALYTICS</strong></summary>
+<!-- ───────────────────────────────────────────────────────────── -->
+<!-- GITHUB STATS -->
+<!-- ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GitHub Analytics
+</h2>
+
 <br/>
 
 <div align="center">
@@ -260,12 +255,10 @@
   <img width="86%" src="https://github-readme-activity-graph.vercel.app/graph?username=manish005&theme=react-dark&hide_border=true&area=true&point=8B5CF6&line=3B82F6&custom_title=%F0%9F%93%88%20Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
-</details>
-
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="80%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="80%"/>
 </div>
 
 <br/>
